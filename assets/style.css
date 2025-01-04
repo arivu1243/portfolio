@@ -17,6 +17,10 @@ header {
     text-align: center;
 }
 
+ul {
+    padding-left: 50px;
+}
+
 header h1 {
     margin-bottom: 0.5rem;
 }
